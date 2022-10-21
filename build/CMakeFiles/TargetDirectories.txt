@@ -1,0 +1,6 @@
+C:/Repos/Paisel/build/CMakeFiles/paisel.dir
+C:/Repos/Paisel/build/CMakeFiles/edit_cache.dir
+C:/Repos/Paisel/build/CMakeFiles/rebuild_cache.dir
+C:/Repos/Paisel/build/add/CMakeFiles/add.dir
+C:/Repos/Paisel/build/add/CMakeFiles/edit_cache.dir
+C:/Repos/Paisel/build/add/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Repos/Paisel/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\paisel.dir\\main.cpp.obj -c C:\\Repos\\Paisel\\test\\main.cpp",
+  "file": "C:/Repos/Paisel/test/main.cpp"
+},
+{
+  "directory": "C:/Repos/Paisel/build/add",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -Dadd_EXPORTS  -g -o CMakeFiles\\add.dir\\add.cpp.obj -c C:\\Repos\\Paisel\\test\\add\\add.cpp",
+  "file": "C:/Repos/Paisel/test/add/add.cpp"
+}
+]
